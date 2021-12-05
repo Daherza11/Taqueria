@@ -1,0 +1,78 @@
+.posiciónderecha {
+    margin-left: auto!important;
+}
+.navcolor{
+    background-color: #AB4D1B;
+}
+.colorblanco{
+    color: #FFFFFF;
+}
+.colorblanco:hover{
+    color: #aaa8a8;
+}
+
+.sinmargen{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.tamimg{
+    width: 791.5px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.txtnosotros{
+    margin: 50px;
+    text-align: justify;
+    font-size: 30px;
+}
+
+.iconfont{
+    color: white;
+}
+
+.tamser{
+    width: 10em;
+    height: 10em;
+    margin-top: 10em;
+}
+
+#Servicios{
+    height: 37.5em;
+    background-color:  rgb(148, 148, 148);
+}
+
+#Servicios a{
+    text-decoration: none;
+    color:  #AB4D1B;
+}
+#Servicios a:hover{
+    color: #6F3212;
+}
+
+
+
+
+@media (max-width: 575.98px) { 
+    #Servicios{
+        height: auto;
+        background-color:  rgb(148, 148, 148);
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { #Servicios{
+    height: auto;
+    background-color:  rgb(148, 148, 148);
+} }
+
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+
+@media (min-width: 1200px) { }
